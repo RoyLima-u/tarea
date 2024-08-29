@@ -1,0 +1,50 @@
+*
+{
+    margin: 0px;
+
+}
+.padre
+{
+    background-color: blue;
+    padding: 20px;
+    width: 500px;
+    border-radius: 70px;
+    
+}
+.hijo
+{
+    background-color: red;
+    padding: 20px;
+    border-radius: 70px;
+    margin: 30px;
+}
+.nieto
+{
+    background-color: yellow;
+    padding: 20px;
+    border-radius: 70px;
+}
+.bisnieto
+{
+    background-color: green;
+    padding: 20px;
+    border-radius: 70px;
+}
+.nivel5
+{
+    background-color: orange;
+    padding: 20px;
+    border-radius: 70px;
+}
+.nivel6
+{
+    background-color:darkgray;
+    padding: 20px;
+    border-radius: 70px;
+}
+.nivel7
+{
+    background-color: cadetblue;
+    padding: 20px;
+    border-radius: 70px;
+}
